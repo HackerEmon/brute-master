@@ -68,7 +68,7 @@ def welcome():
         +-----------------------------------------+
         |            #Author: Hacker Emon         | 
         |	       Version 1.0                |
- 	|https://www.facebook.com/Gaitondevau |
+ 	|https://www.facebook.com/Gaitondevau     |
         +=========================================+
         |..........  fb-brute  ...........|
         +-----------------------------------------+\n\n
